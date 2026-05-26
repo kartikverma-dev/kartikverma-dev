@@ -30,7 +30,8 @@
 ## 🎯 Goals
 - Contribute to open-source (Duino-Coin)  
 - Build real-world IoT systems  
-- Land a tech internship  
+- Land a tech internship
+- creating own os with federo linux as base
 
 ---
 
