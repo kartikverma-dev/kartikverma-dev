@@ -36,9 +36,11 @@
 - Contribute to open-source (Duino-Coin)  
 - Build real-world IoT systems  
 - Land a tech internship
-- creating own os with federo linux as base
+- Creating own OS with federo linux as base
 
 ---
 
 ## 📫 Connect with me
 - GitHub: https://github.com/KARTIKLABS
+- Gmail: KartikVerma0804@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kartik-verma-5459a5378
