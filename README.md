@@ -25,6 +25,7 @@
 ---
 
 ## 📈 Currently Learning
+- AI Tools & prompt engineering
 - Embedded optimization  
 - Networking fundamentals  
 - System design basics  
