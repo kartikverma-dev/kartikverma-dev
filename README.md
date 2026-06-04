@@ -41,6 +41,6 @@
 ---
 
 ## 📫 Connect with me
-- GitHub: https://github.com/KARTIKLABS
+- GitHub: https://github.com/kartikverma-dev
 - Gmail: KartikVerma0804@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kartik-verma-5459a5378
