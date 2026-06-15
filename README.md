@@ -2,7 +2,7 @@
 
 🚀 IoT & Embedded Developer  
 🔧 ESP8266 • Arduino • Python  
-📡 Exploring Cybersecurity, AI , Automation & Systems  
+📡 Exploring Cybersecurity, AI , Automation & Systems
 
 ---
 
